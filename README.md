@@ -9,7 +9,7 @@ Here is a course on my Spring Microservices. In this course, you will become fam
 
 ## Maintainers
 
-[@johnnymillergh](https://github.com/johnnymillergh).
+[@bachtx13](https://github.com/bachtx13).
 
 ## Contributors
 
