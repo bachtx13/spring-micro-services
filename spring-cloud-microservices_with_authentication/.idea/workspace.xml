@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c9b51e-2a56-4df7-aacf-285396e7c005" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/admin-service/target/test-classes/com/bachtx/adminservice/AdminServiceApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/test-classes/com/bachtx/gateway/GatewayApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-server/target/test-classes/com/bachtx/mainserver/MainServerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/generated-sources/annotations/com/bachtx/userservice/mappers/UserMapperImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/test-classes/com/bachtx/userservice/UserServiceApplicationTests.class" beforeDir="false" />
-    </list>
+    <list default="true" id="f0c9b51e-2a56-4df7-aacf-285396e7c005" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +121,7 @@
       <workItem from="1704622302834" duration="2821000" />
       <workItem from="1704680055408" duration="13281000" />
       <workItem from="1704703330457" duration="1984000" />
-      <workItem from="1704764349352" duration="12357000" />
+      <workItem from="1704764349352" duration="13245000" />
     </task>
     <servers />
   </component>
