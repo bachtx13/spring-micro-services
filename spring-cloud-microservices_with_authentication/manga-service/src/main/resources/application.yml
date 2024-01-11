@@ -2,7 +2,7 @@ spring:
   application:
     name: manga-service
   datasource:
-    url: jdbc:postgresql://localhost:5432/spring_cloud_ex_1
+    url: jdbc:postgresql://localhost:5432/spring_cloud_ex1
     username: postgres
     password: 1312
     driver-class-name: org.postgresql.Driver
@@ -10,6 +10,7 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     hibernate:
       ddl-auto: update
+    show-sql: true
 server:
   port: 8080
 eureka:
