@@ -10,11 +10,9 @@ public class RouteLocatorConfiguration {
     @Bean
     public RouteLocator routeLocator(RouteLocatorBuilder builder) {
         return builder.routes()
-                .route("manga",
-                        (route) -> route.host("**.")
-                                .and()
-                                .path("/manga")
-                                .uri("http://hb:8080"))
+                .route((route) -> route.path("/manga/**")
+                                .filters(gatewayFilterSpec -> gatewayFilterSpec.stripPrefix(1))
+                                .uri("hb://manga-service/"))
                 .build();
     }
 }
