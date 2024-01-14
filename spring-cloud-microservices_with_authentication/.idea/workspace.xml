@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c9b51e-2a56-4df7-aacf-285396e7c005" name="Changes" comment="" />
+    <list default="true" id="8f99dcbf-0af6-4a84-8ba4-d131a5f1120d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +29,18 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2aa0Y1IZcCcNx33qCT9l7w2s3rr" />
+  <component name="ProjectId" id="2andifFhwItCPtPRqC6CmvEfkBK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -35,42 +48,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.AdminServiceApplication.executor": "Run",
-    "Spring Boot.GatewayApplication.executor": "Run",
-    "Spring Boot.GatewayServiceApplication.executor": "Run",
-    "Spring Boot.MainServerApplication.executor": "Run",
-    "Spring Boot.MangaServiceApplication.executor": "Run",
-    "Spring Boot.ServerDiscoveryApplication.executor": "Run",
-    "Spring Boot.UserServiceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/learning/spring_framework_learning/spring-cloud-microservices_with_authentication/admin-service/src/main/java/com/bachtx/adminservice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GatewayServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GenresServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MangaServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServerDiscoveryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/learning/spring_framework_learning/spring-cloud-microservices_with_authentication/genres-service/src/main/java/com/bachtx/genresservice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\learning\spring_framework_learning\spring-cloud-microservices_with_authentication\admin-service\src\main\java\com\bachtx\adminservice" />
+      <recent name="D:\learning\spring_framework_learning\spring-cloud-microservices_with_authentication\genres-service\src\main\java\com\bachtx\genresservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bachtx.genresservice.dto.response" />
+      <recent name="com.bachtx.mangaservice.repositories" />
+      <recent name="com.bachtx.mangaservice.mappers" />
+      <recent name="com.bachtx.mangaservice.services.impl" />
+      <recent name="com.bachtx.mangaservice.services" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -81,12 +96,34 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="openRunningConfigInTab" value="true" />
   </component>
   <component name="RunManager" selected="Spring Boot.ServerDiscoveryApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-cloud-microservices_with_authentication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-cloud-microservices_with_authentication" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="gateway-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bachtx.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenresServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="genres-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bachtx.genresservice.GenresServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,17 +148,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0c9b51e-2a56-4df7-aacf-285396e7c005" name="Changes" comment="" />
-      <created>1704541426608</created>
+      <changelist id="8f99dcbf-0af6-4a84-8ba4-d131a5f1120d" name="Changes" comment="" />
+      <created>1704958405854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704541426608</updated>
-      <workItem from="1704541427675" duration="2762000" />
-      <workItem from="1704602926025" duration="9675000" />
-      <workItem from="1704622302834" duration="2821000" />
-      <workItem from="1704680055408" duration="13281000" />
-      <workItem from="1704703330457" duration="1984000" />
-      <workItem from="1704764349352" duration="13245000" />
+      <updated>1704958405854</updated>
+      <workItem from="1704958407020" duration="9857000" />
+      <workItem from="1705010586001" duration="2000" />
+      <workItem from="1705183030719" duration="560000" />
+      <workItem from="1705183610502" duration="7869000" />
     </task>
     <servers />
   </component>
